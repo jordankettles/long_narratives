@@ -1,0 +1,20 @@
+Turning Point:
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/turning_point/test -save_path ../my_bert_data  -lower -n_cpus 2 -log_file ../logs/preprocess.log
+
+Propp:
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/propp_learner/test -save_path ../my_bert_data  -lower -n_cpus 2 -log_file ../logs/preprocess.log
+
+NYT:
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/nyt/test -save_path ../my_bert_data  -lower -n_cpus 8 -log_file ../logs/preprocess.log
+
+Booksum Paragraph Level:
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/booksum/train -save_path ../booksum_bert_data  -lower -n_cpus 8 -log_file ../logs/preprocess.log
+
+BookSum Chapter Level :
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/booksum_chapter/test -save_path ../booksum_chapter_bert_data  -lower -n_cpus 4 -log_file ../logs/preprocess.log
+
+Booksum Paragraph Level Valid:
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/booksum/valid -save_path ../booksum_valid_with_filenames  -lower -n_cpus 8 -log_file ../logs/preprocess.log
+
+BookSum Summaries :
+python preprocess.py -mode format_to_bert -raw_path ../../preprocessing/processed_data/presumm/booksum_summaries -save_path ../booksum_summaries_bert_data  -lower -n_cpus 4 -log_file ../logs/preprocess.log

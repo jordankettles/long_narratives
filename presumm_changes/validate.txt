@@ -1,0 +1,7 @@
+python train.py -task ext -mode validate -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_bert_data/booksum -log_file ../logs/val_ext_bert_booksum -model_path ../models -sep_optim true -use_interval true -test_all True -visible_gpus 0 -max_pos 512 -alpha 0.9 -result_path ../logs/ext_bert_booksum
+
+
+python train.py -task ext -mode validate -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_bert_data/booksum -log_file ../logs/val_2_ext_bert_booksum -model_path ../models/models_to_test -sep_optim true -use_interval true -test_all True -visible_gpus 0 -max_pos 512 -alpha 0.9 -result_path ../logs/ext_bert_booksum_val_2
+
+python train.py -task ext -mode validate -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_bert_data/booksum -log_file ../logs/val_3_ext_bert_booksum -model_path ../models/models_to_test -sep_optim true -use_interval true -test_all True -visible_gpus 0 -max_pos 512 -alpha 0.9 -result_path ../results/ext_bert_booksum_val_3
+python train.py -task ext -mode validate -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_bert_data/booksum -log_file ../logs/val_3_ext_bert_booksum -model_path ../models/models_to_test -sep_optim true -use_interval true -test_all True -visible_gpus 0 -max_pos 512 -alpha 0.9 -result_path ../results/ext_bert_booksum_val_4
