@@ -1,0 +1,20 @@
+NYT:
+python train.py -task ext -mode test -test_from ../models/bertext_cnndm_transformer.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../my_bert_data/nyt -log_file ../logs/val_ext_bert_nyt_test -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/nyt/ext_bert_nyt_test
+
+Turning Point:
+python train.py -task ext -mode test -test_from ../models/bertext_cnndm_transformer.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../my_bert_data/tp -log_file ../logs/val_ext_bert_tp_test -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/turning-point/ext_bert_tp_test 
+
+ProppLearner:
+python train.py -task ext -mode test -test_from ../models/bertext_cnndm_transformer.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../my_bert_data/propp -log_file ../logs/val_ext_bert_propp_test -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/propp/ext_bert_propp_test
+
+BookSum:
+python train.py -task ext -mode test -test_from ../models/model_step_20000.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_bert_data/booksum -log_file ../logs/val_ext_bert_booksum_test_20000 -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/booksum/20000/ext_bert_booksum_test
+
+BookSum with text:
+python train.py -task ext -mode test -test_from ../models/model_step_20000.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_test_with_filenames/booksum -log_file ../logs/val_ext_bert_booksum_with_filenames_test_20000 -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/booksum/20000_with_text/ext_bert_
+
+BookSum Chapter:
+python train.py -task ext -mode test -test_from ../models/model_step_20000.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_chapter_bert_data/booksum -log_file ../logs/val_ext_bert_booksum_chapter_test_20000 -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/booksum_chapter/20000/ext_bert
+
+BookSum Summaries:
+python train.py -task ext -mode test -test_from ../models/model_step_20000.pt -batch_size 3000 -test_batch_size 500 -bert_data_path ../booksum_summaries_bert_data/booksum_summaries - log_file ../logs/val_ext_bert_booksum_summaries_20000 -sep_optim true -use_interval true -visible_gpus 0 -max_pos 512 -alpha 0.95 -result_path ../results/booksum_summaries/20000/ext_bert
