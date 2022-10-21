@@ -1,0 +1,12 @@
+[submodule "coling2020-modeling-event-salience"]
+	path = coling2020-modeling-event-salience
+	url = https://github.com/takaki-otake/coling2020-modeling-event-salience.git
+[submodule "PreSumm"]
+	path = PreSumm
+	url = https://github.com/nlpyang/PreSumm.git
+[submodule "booksum"]
+	path = booksum
+	url = https://github.com/salesforce/booksum.git
+[submodule "rouge_papier"]
+	path = rouge_papier
+	url = https://github.com/kedz/rouge_papier.git

@@ -1,0 +1,333 @@
+,ROUGE-1 F1,summary path
+0,0.5629991543737668,finished_summaries/gradesaver/The Brothers Karamazov/overview.json
+1,0.5216398309923491,finished_summaries/shmoop/The Brothers Karamazov/overview.txt
+2,0.5937532863602902,finished_summaries/cliffnotes/The Brothers Karamazov/overview.txt
+3,0.6091443905459799,finished_summaries/sparknotes/The Brothers Karamazov/overview.txt
+4,0.5100389571471381,finished_summaries/gradesaver/The Portrait of a Lady/overview.json
+5,0.4867187500000001,finished_summaries/shmoop/The Portrait of a Lady/overview.txt
+6,0.49860724233983283,finished_summaries/cliffnotes/The Portrait of a Lady/overview.txt
+7,0.5341907151819323,finished_summaries/sparknotes/The Portrait of a Lady/overview.txt
+8,0.3975993998499625,finished_summaries/gradesaver/The Prince/overview.json
+9,0.3328631875881523,finished_summaries/shmoop/The Prince/overview.txt
+10,0.39694100509832486,finished_summaries/cliffnotes/The Prince/overview.txt
+11,0.3971684053651267,finished_summaries/sparknotes/The Prince/overview.txt
+12,0.37257939581719596,finished_summaries/shmoop/The Red and the Black/overview.txt
+13,0.3131991051454138,finished_summaries/cliffnotes/The Red and the Black/overview.txt
+14,0.38352941176470584,finished_summaries/sparknotes/The Red and the Black/overview.txt
+15,0.6020159888773027,finished_summaries/gradesaver/The Picture of Dorian Gray/overview.json
+16,0.5813715455475946,finished_summaries/shmoop/The Picture of Dorian Gray/overview.txt
+17,0.5874692009855684,finished_summaries/cliffnotes/The Picture of Dorian Gray/overview.txt
+18,0.5968150560984437,finished_summaries/sparknotes/The Picture of Dorian Gray/overview.txt
+19,0.43714541654225136,finished_summaries/gradesaver/Lord Jim/overview.json
+20,0.20018796992481203,finished_summaries/shmoop/Lord Jim/overview.txt
+21,0.401123595505618,finished_summaries/cliffnotes/Lord Jim/overview.txt
+22,0.3744475693049418,finished_summaries/sparknotes/Lord Jim/overview.txt
+23,0.3618072068776294,finished_summaries/gradesaver/Far from the Madding Crowd/overview.json
+24,0.4162381596752368,finished_summaries/shmoop/Far from the Madding Crowd/overview.txt
+25,0.43108583807202816,finished_summaries/cliffnotes/Far from the Madding Crowd/overview.txt
+26,0.4267129228100607,finished_summaries/sparknotes/Far from the Madding Crowd/overview.txt
+27,0.4621046349711558,finished_summaries/gradesaver/Sense and Sensibility/overview.json
+28,0.5240979056270502,finished_summaries/shmoop/Sense and Sensibility/overview.txt
+29,0.5304347826086957,finished_summaries/cliffnotes/Sense and Sensibility/overview.txt
+30,0.4093008931321219,finished_summaries/sparknotes/Sense and Sensibility/overview.txt
+31,0.49238578680203055,finished_summaries/gradesaver/The White Devil/overview.json
+32,0.49238578680203055,finished_summaries/shmoop/The White Devil/overview.txt
+33,0.5922826592282658,finished_summaries/gradesaver/The Tempest/overview.json
+34,0.5103640480752483,finished_summaries/shmoop/The Tempest/overview.txt
+35,0.5983013526266121,finished_summaries/sparknotes/The Tempest/overview.txt
+36,0.5122721749696233,finished_summaries/gradesaver/Uncle Vanya/overview.json
+37,0.4638655462184874,finished_summaries/shmoop/Uncle Vanya/overview.txt
+38,0.5055541841520612,finished_summaries/sparknotes/Uncle Vanya/overview.txt
+39,0.33896515311510034,finished_summaries/shmoop/The Comedy of Errors/overview.txt
+40,0.33896515311510034,finished_summaries/sparknotes/The Comedy of Errors/overview.txt
+41,0.5377913821521073,finished_summaries/gradesaver/Paradise Lost/overview.json
+42,0.38307475317348383,finished_summaries/shmoop/Paradise Lost/overview.txt
+43,0.5004302925989673,finished_summaries/sparknotes/Paradise Lost/overview.txt
+44,0.5766248413929225,finished_summaries/gradesaver/Adam Bede/overview.json
+45,0.48444372047564743,finished_summaries/shmoop/Adam Bede/overview.txt
+46,0.5485641352903637,finished_summaries/cliffnotes/Adam Bede/overview.txt
+47,0.5600492080578194,finished_summaries/sparknotes/Adam Bede/overview.txt
+48,0.5874604847207587,finished_summaries/gradesaver/Northanger Abbey/overview.json
+49,0.5028064992614476,finished_summaries/shmoop/Northanger Abbey/overview.txt
+50,0.570847112693971,finished_summaries/sparknotes/Northanger Abbey/overview.txt
+51,0.39429379257164887,finished_summaries/gradesaver/Frankenstein/overview.json
+52,0.43140215134931115,finished_summaries/shmoop/Frankenstein/overview.txt
+53,0.3935889632785555,finished_summaries/cliffnotes/Frankenstein/overview.txt
+54,0.4807141654034024,finished_summaries/sparknotes/Frankenstein/overview.txt
+55,0.5532851304621189,finished_summaries/shmoop/My Antonia/overview.txt
+56,0.4930795847750865,finished_summaries/cliffnotes/My Antonia/overview.txt
+57,0.4829700272479564,finished_summaries/sparknotes/My Antonia/overview.txt
+58,0.38675022381378693,finished_summaries/gradesaver/A Vindication of the Rights of Woman/overview.json
+59,0.38675022381378693,finished_summaries/shmoop/A Vindication of the Rights of Woman/overview.txt
+60,0.4718801996672213,finished_summaries/gradesaver/Little Women/overview.json
+61,0.41342486651411137,finished_summaries/shmoop/Little Women/overview.txt
+62,0.46252814409778065,finished_summaries/sparknotes/Little Women/overview.txt
+63,0.541090087545891,finished_summaries/shmoop/The House of Mirth/overview.txt
+64,0.5373221028173104,finished_summaries/cliffnotes/The House of Mirth/overview.txt
+65,0.48169934640522877,finished_summaries/sparknotes/The House of Mirth/overview.txt
+66,0.5696986376771708,finished_summaries/gradesaver/The House of the Seven Gables/overview.json
+67,0.5548104557273847,finished_summaries/shmoop/The House of the Seven Gables/overview.txt
+68,0.507361268403171,finished_summaries/cliffnotes/The House of the Seven Gables/overview.txt
+69,0.5714712471994026,finished_summaries/sparknotes/The House of the Seven Gables/overview.txt
+70,0.5274361400189215,finished_summaries/gradesaver/Hamlet/overview.json
+71,0.5231880033324077,finished_summaries/shmoop/Hamlet/overview.txt
+72,0.5749933634191665,finished_summaries/sparknotes/Hamlet/overview.txt
+73,0.5783699059561128,finished_summaries/gradesaver/Othello/overview.json
+74,0.6011369888134971,finished_summaries/shmoop/Othello/overview.txt
+75,0.5783829787234042,finished_summaries/sparknotes/Othello/overview.txt
+76,0.5640750670241286,finished_summaries/shmoop/A Room with a View/overview.txt
+77,0.5640750670241286,finished_summaries/sparknotes/A Room with a View/overview.txt
+78,0.21060318387615012,finished_summaries/gradesaver/Coriolanus/overview.json
+79,0.2877860865624292,finished_summaries/shmoop/Coriolanus/overview.txt
+80,0.2632558139534884,finished_summaries/sparknotes/Coriolanus/overview.txt
+81,0.3420229405630865,finished_summaries/shmoop/Around the World in Eighty Days/overview.txt
+82,0.4997910572503134,finished_summaries/gradesaver/Candide/overview.json
+83,0.48575013443269405,finished_summaries/shmoop/Candide/overview.txt
+84,0.5461619033368249,finished_summaries/cliffnotes/Candide/overview.txt
+85,0.5591673338670936,finished_summaries/sparknotes/Candide/overview.txt
+86,0.3420229405630865,finished_summaries/gradesaver/Around the World in 80 Days/overview.json
+87,0.49201484110340377,finished_summaries/gradesaver/Sister Carrie/overview.json
+88,0.4758078017746526,finished_summaries/shmoop/Sister Carrie/overview.txt
+89,0.49158132268703353,finished_summaries/cliffnotes/Sister Carrie/overview.txt
+90,0.1542645241038319,finished_summaries/sparknotes/Sister Carrie/overview.txt
+91,0.569496619083396,finished_summaries/gradesaver/Persuasion/overview.json
+92,0.5402945113788488,finished_summaries/shmoop/Persuasion/overview.txt
+93,0.5758513931888545,finished_summaries/sparknotes/Persuasion/overview.txt
+94,0.493681550126369,finished_summaries/gradesaver/Wuthering Heights/overview.json
+95,0.5467505241090147,finished_summaries/shmoop/Wuthering Heights/overview.txt
+96,0.3587318269399194,finished_summaries/cliffnotes/Wuthering Heights/overview.txt
+97,0.5396744007178567,finished_summaries/sparknotes/Wuthering Heights/overview.txt
+98,0.39870689655172414,finished_summaries/gradesaver/What Maisie Knew/overview.json
+99,0.39870689655172414,finished_summaries/shmoop/What Maisie Knew/overview.txt
+100,0.5347415230683713,finished_summaries/gradesaver/Oliver Twist/overview.json
+101,0.5416004239533652,finished_summaries/shmoop/Oliver Twist/overview.txt
+102,0.4706585038076751,finished_summaries/cliffnotes/Oliver Twist/overview.txt
+103,0.5025288286465709,finished_summaries/sparknotes/Oliver Twist/overview.txt
+104,0.4900560938296787,finished_summaries/gradesaver/David Copperfield/overview.json
+105,0.35176309483053747,finished_summaries/shmoop/David Copperfield/overview.txt
+106,0.35714285714285715,finished_summaries/cliffnotes/David Copperfield/overview.txt
+107,0.450828729281768,finished_summaries/sparknotes/David Copperfield/overview.txt
+108,0.4710759374411156,finished_summaries/gradesaver/Heart of Darkness/overview.json
+109,0.47310312426591494,finished_summaries/shmoop/Heart of Darkness/overview.txt
+110,0.4611906556141673,finished_summaries/cliffnotes/Heart of Darkness/overview.txt
+111,0.5106658047834518,finished_summaries/sparknotes/Heart of Darkness/overview.txt
+112,0.5675207756232687,finished_summaries/gradesaver/Dracula/overview.json
+113,0.4907630522088353,finished_summaries/shmoop/Dracula/overview.txt
+114,0.5514851485148514,finished_summaries/cliffnotes/Dracula/overview.txt
+115,0.5646359583952453,finished_summaries/sparknotes/Dracula/overview.txt
+116,0.20327868852459016,finished_summaries/gradesaver/Leviathan/overview.json
+117,0.20327868852459016,finished_summaries/shmoop/Leviathan/overview.txt
+118,0.4731585518102372,finished_summaries/shmoop/Main Street/overview.txt
+119,0.509929906542056,finished_summaries/cliffnotes/Main Street/overview.txt
+120,0.5203296703296704,finished_summaries/sparknotes/Main Street/overview.txt
+121,0.31693531505128747,finished_summaries/gradesaver/Middlemarch/overview.json
+122,0.3448873483535529,finished_summaries/shmoop/Middlemarch/overview.txt
+123,0.33141289437585736,finished_summaries/sparknotes/Middlemarch/overview.txt
+124,0.46428571428571436,finished_summaries/shmoop/The Power and the Glory/overview.txt
+125,0.46428571428571436,finished_summaries/sparknotes/The Power and the Glory/overview.txt
+126,0.30867442733758915,finished_summaries/shmoop/The Return of the Native/overview.txt
+127,0.3277486910994764,finished_summaries/cliffnotes/The Return of the Native/overview.txt
+128,0.4047535826634044,finished_summaries/sparknotes/The Return of the Native/overview.txt
+129,0.5486079415791877,finished_summaries/gradesaver/The Scarlet Letter/overview.json
+130,0.459887583035258,finished_summaries/shmoop/The Scarlet Letter/overview.txt
+131,0.5516952699874424,finished_summaries/cliffnotes/The Scarlet Letter/overview.txt
+132,0.5716730851519041,finished_summaries/sparknotes/The Scarlet Letter/overview.txt
+133,0.5714713814803716,finished_summaries/gradesaver/My Antonia/overview.json
+134,0.4875124875124875,finished_summaries/gradesaver/Babbitt/overview.json
+135,0.4757233938205003,finished_summaries/shmoop/Babbitt/overview.txt
+136,0.47712127943136384,finished_summaries/sparknotes/Babbitt/overview.txt
+137,0.4045936395759717,finished_summaries/shmoop/Madame Bovary/overview.txt
+138,0.4045936395759717,finished_summaries/cliffnotes/Madame Bovary/overview.txt
+139,0.501609010458568,finished_summaries/gradesaver/A Tale of Two Cities/overview.json
+140,0.4565422026984625,finished_summaries/shmoop/A Tale of Two Cities/overview.txt
+141,0.43806258036862405,finished_summaries/cliffnotes/A Tale of Two Cities/overview.txt
+142,0.5160167130919221,finished_summaries/sparknotes/A Tale of Two Cities/overview.txt
+143,0.45588568836470855,finished_summaries/gradesaver/Howards End/overview.json
+144,0.43668877992500726,finished_summaries/shmoop/Howards End/overview.txt
+145,0.5217864923747276,finished_summaries/sparknotes/Howards End/overview.txt
+146,0.513066082911479,finished_summaries/gradesaver/The Turn of the Screw/overview.json
+147,0.5229505268798,finished_summaries/shmoop/The Turn of the Screw/overview.txt
+148,0.47407407407407404,finished_summaries/cliffnotes/The Turn of the Screw/overview.txt
+149,0.5659278433910372,finished_summaries/sparknotes/The Turn of the Screw/overview.txt
+150,0.47533009034051427,finished_summaries/gradesaver/The Secret Agent/overview.json
+151,0.47533009034051427,finished_summaries/shmoop/The Secret Agent/overview.txt
+152,0.5908141962421712,finished_summaries/gradesaver/Jane Eyre/overview.json
+153,0.5752858185356361,finished_summaries/shmoop/Jane Eyre/overview.txt
+154,0.5833531510107014,finished_summaries/cliffnotes/Jane Eyre/overview.txt
+155,0.5561959654178674,finished_summaries/sparknotes/Jane Eyre/overview.txt
+156,0.2445167680769775,finished_summaries/shmoop/Ivanhoe/overview.txt
+157,0.22926717206524236,finished_summaries/cliffnotes/Ivanhoe/overview.txt
+158,0.3482816429170159,finished_summaries/sparknotes/Ivanhoe/overview.txt
+159,0.5346762589928058,finished_summaries/gradesaver/Mansfield Park/overview.json
+160,0.4616472251679039,finished_summaries/shmoop/Mansfield Park/overview.txt
+161,0.5716096324461344,finished_summaries/sparknotes/Mansfield Park/overview.txt
+162,0.573134328358209,finished_summaries/shmoop/Typee/overview.txt
+163,0.573134328358209,finished_summaries/sparknotes/Typee/overview.txt
+164,0.4444444444444444,finished_summaries/gradesaver/Anne of Green Gables/overview.json
+165,0.48106208512299886,finished_summaries/shmoop/Anne of Green Gables/overview.txt
+166,0.5196914332115307,finished_summaries/sparknotes/Anne of Green Gables/overview.txt
+167,0.4460567823343849,finished_summaries/gradesaver/Kidnapped/overview.json
+168,0.4304074377905387,finished_summaries/shmoop/Kidnapped/overview.txt
+169,0.5313126252505009,finished_summaries/sparknotes/Kidnapped/overview.txt
+170,0.5065963060686015,finished_summaries/gradesaver/A Little Princess/overview.json
+171,0.5065963060686015,finished_summaries/shmoop/A Little Princess/overview.txt
+172,0.6019496344435418,finished_summaries/gradesaver/Regeneration/overview.json
+173,0.6019496344435418,finished_summaries/sparknotes/Regeneration/overview.txt
+174,0.42929806714140384,finished_summaries/shmoop/Sons and Lovers/overview.txt
+175,0.42929806714140384,finished_summaries/sparknotes/Sons and Lovers/overview.txt
+176,0.6097838452787259,finished_summaries/gradesaver/The Hound of the Baskervilles/overview.json
+177,0.6097838452787259,finished_summaries/shmoop/The Hound of the Baskervilles/overview.txt
+178,0.5697177074422584,finished_summaries/cliffnotes/The Last of the Mohicans/overview.txt
+179,0.5697177074422584,finished_summaries/sparknotes/The Last of the Mohicans/overview.txt
+180,0.41900371366372136,finished_summaries/gradesaver/The Red Badge of Courage/overview.json
+181,0.44525407478427614,finished_summaries/shmoop/The Red Badge of Courage/overview.txt
+182,0.4875117370892018,finished_summaries/cliffnotes/The Red Badge of Courage/overview.txt
+183,0.5044886463650766,finished_summaries/sparknotes/The Red Badge of Courage/overview.txt
+184,0.5628120631116437,finished_summaries/gradesaver/The Mill on the Floss/overview.json
+185,0.379395740465577,finished_summaries/shmoop/The Mill on the Floss/overview.txt
+186,0.5554457402648745,finished_summaries/cliffnotes/The Mill on the Floss/overview.txt
+187,0.4754022988505747,finished_summaries/gradesaver/Treasure Island/overview.json
+188,0.49286540686463554,finished_summaries/shmoop/Treasure Island/overview.txt
+189,0.533273381294964,finished_summaries/cliffnotes/Treasure Island/overview.txt
+190,0.49904275686024246,finished_summaries/sparknotes/Henry VIII/overview.txt
+191,0.27889772517107453,finished_summaries/gradesaver/The Time Machine/overview.json
+192,0.3430296377607025,finished_summaries/shmoop/The Time Machine/overview.txt
+193,0.3510608983190962,finished_summaries/sparknotes/The Time Machine/overview.txt
+194,0.36991368680641185,finished_summaries/gradesaver/Vanity Fair/overview.json
+195,0.2881959276662395,finished_summaries/shmoop/Vanity Fair/overview.txt
+196,0.3167478297692145,finished_summaries/cliffnotes/Vanity Fair/overview.txt
+197,0.4082430806257521,finished_summaries/gradesaver/Little Dorrit/overview.json
+198,0.4082430806257521,finished_summaries/shmoop/Little Dorrit/overview.txt
+199,0.3019169329073482,finished_summaries/gradesaver/Incidents in the Life of a Slave Girl/overview.json
+200,0.3019169329073482,finished_summaries/shmoop/Incidents in the Life of a Slave Girl/overview.txt
+201,0.28520499108734404,finished_summaries/gradesaver/Henry IV Part 2/overview.json
+202,0.0188953488372093,finished_summaries/shmoop/Henry IV Part 2/overview.txt
+203,0.3505494505494506,finished_summaries/sparknotes/Henry IV Part 2/overview.txt
+204,0.5385266723116003,finished_summaries/gradesaver/Macbeth/overview.json
+205,0.48205128205128206,finished_summaries/shmoop/Macbeth/overview.txt
+206,0.5494830132939439,finished_summaries/sparknotes/Macbeth/overview.txt
+207,0.5104408352668214,finished_summaries/gradesaver/Troilus and Cressida/overview.json
+208,0.4651757188498404,finished_summaries/shmoop/Troilus and Cressida/overview.txt
+209,0.5101721439749608,finished_summaries/sparknotes/Troilus and Cressida/overview.txt
+210,0.45905355624822897,finished_summaries/gradesaver/Richard II/overview.json
+211,0.4103784813139728,finished_summaries/shmoop/Richard II/overview.txt
+212,0.37898686679174487,finished_summaries/sparknotes/Richard II/overview.txt
+213,0.46978888619267173,finished_summaries/gradesaver/Henry IV Part 1/overview.json
+214,0.4098328416912488,finished_summaries/shmoop/Henry IV Part 1/overview.txt
+215,0.4431197218082464,finished_summaries/sparknotes/Henry IV Part 1/overview.txt
+216,0.5023041474654378,finished_summaries/shmoop/King John/overview.txt
+217,0.5023041474654378,finished_summaries/sparknotes/King John/overview.txt
+218,0.3572110792741165,finished_summaries/shmoop/Henry VI Part 1/overview.txt
+219,0.3572110792741165,finished_summaries/sparknotes/Henry VI Part 1/overview.txt
+220,0.5105566218809982,finished_summaries/gradesaver/Richard III/overview.json
+221,0.473125,finished_summaries/shmoop/Richard III/overview.txt
+222,0.5086173879739564,finished_summaries/sparknotes/Richard III/overview.txt
+223,0.5377308707124011,finished_summaries/gradesaver/Henry V/overview.json
+224,0.5377308707124011,finished_summaries/shmoop/Henry V/overview.txt
+225,0.49904275686024246,finished_summaries/shmoop/Henry VIII/overview.txt
+226,0.3829177414732015,finished_summaries/gradesaver/Titus Andronicus/overview.json
+227,0.46197382384152813,finished_summaries/shmoop/Titus Andronicus/overview.txt
+228,0.38155922038980505,finished_summaries/sparknotes/Titus Andronicus/overview.txt
+229,0.6060019361084221,finished_summaries/gradesaver/Julius Caesar/overview.json
+230,0.5742778541953233,finished_summaries/shmoop/Julius Caesar/overview.txt
+231,0.6104553119730185,finished_summaries/sparknotes/Julius Caesar/overview.txt
+232,0.5158562367864694,finished_summaries/shmoop/The Two Gentlemen of Verona/overview.txt
+233,0.5158562367864694,finished_summaries/sparknotes/The Two Gentlemen of Verona/overview.txt
+234,0.6059133252328878,finished_summaries/gradesaver/The Wonderful Wizard of Oz/overview.json
+235,0.6059133252328878,finished_summaries/shmoop/The Wonderful Wizard of Oz/overview.txt
+236,0.5543318649045521,finished_summaries/gradesaver/Pygmalion/overview.json
+237,0.5532544378698224,finished_summaries/shmoop/Pygmalion/overview.txt
+238,0.5469483568075116,finished_summaries/sparknotes/Pygmalion/overview.txt
+239,0.41771356783919605,finished_summaries/gradesaver/Twelfth Night/overview.json
+240,0.41771356783919605,finished_summaries/sparknotes/Twelfth Night/overview.txt
+241,0.5643382352941178,finished_summaries/gradesaver/The Aeneid/overview.json
+242,0.5765822784810126,finished_summaries/shmoop/The Aeneid/overview.txt
+243,0.577120822622108,finished_summaries/sparknotes/The Aeneid/overview.txt
+244,0.3997289972899729,finished_summaries/gradesaver/Ghosts/overview.json
+245,0.3997289972899729,finished_summaries/shmoop/Ghosts/overview.txt
+246,0.4491017964071856,finished_summaries/shmoop/The Merry Wives of Windsor/overview.txt
+247,0.4491017964071856,finished_summaries/sparknotes/The Merry Wives of Windsor/overview.txt
+248,0.5302445302445302,finished_summaries/gradesaver/The Spanish Tragedy/overview.json
+249,0.5302445302445302,finished_summaries/shmoop/The Spanish Tragedy/overview.txt
+250,0.5906113537117904,finished_summaries/gradesaver/Tartuffe/overview.json
+251,0.5906113537117904,finished_summaries/shmoop/Tartuffe/overview.txt
+252,0.28519195612431447,finished_summaries/gradesaver/An Enemy of the People/overview.json
+253,0.3651997976732423,finished_summaries/shmoop/An Enemy of the People/overview.txt
+254,0.35580912863070535,finished_summaries/sparknotes/An Enemy of the People/overview.txt
+255,0.2884910485933504,finished_summaries/gradesaver/Siddhartha/overview.json
+256,0.2884910485933504,finished_summaries/shmoop/Siddhartha/overview.txt
+257,0.3058735222368174,finished_summaries/gradesaver/Measure for Measure/overview.json
+258,0.3888888888888889,finished_summaries/shmoop/Measure for Measure/overview.txt
+259,0.34675431388660644,finished_summaries/sparknotes/Measure for Measure/overview.txt
+260,0.38089622641509435,finished_summaries/gradesaver/The Seagull/overview.json
+261,0.38089622641509435,finished_summaries/shmoop/The Seagull/overview.txt
+262,0.6217345872518285,finished_summaries/gradesaver/Alice in Wonderland/overview.json
+263,0.6217345872518285,finished_summaries/sparknotes/Alice in Wonderland/overview.txt
+264,0.4667081518357187,finished_summaries/gradesaver/Pride and Prejudice/overview.json
+265,0.4667081518357187,finished_summaries/cliffnotes/Pride and Prejudice/overview.txt
+266,0.42275691477400495,finished_summaries/gradesaver/Emma/overview.json
+267,0.3761102603369066,finished_summaries/shmoop/Emma/overview.txt
+268,0.5005537098560355,finished_summaries/sparknotes/Emma/overview.txt
+269,0.4168797953964194,finished_summaries/gradesaver/White Fang/overview.json
+270,0.46502835538752363,finished_summaries/shmoop/White Fang/overview.txt
+271,0.4104951333051206,finished_summaries/sparknotes/White Fang/overview.txt
+272,0.6064450647043897,finished_summaries/gradesaver/Romeo and Juliet/overview.json
+273,0.5176339905581783,finished_summaries/shmoop/Romeo and Juliet/overview.txt
+274,0.5738174868609651,finished_summaries/sparknotes/Romeo and Juliet/overview.txt
+275,0.5486455551316292,finished_summaries/shmoop/The Merchant of Venice/overview.txt
+276,0.5486455551316292,finished_summaries/sparknotes/The Merchant of Venice/overview.txt
+277,0.509865005192108,finished_summaries/shmoop/Major Barbara/overview.txt
+278,0.509865005192108,finished_summaries/sparknotes/Major Barbara/overview.txt
+279,0.5445482866043614,finished_summaries/gradesaver/The Jew of Malta/overview.json
+280,0.5445482866043614,finished_summaries/sparknotes/The Jew of Malta/overview.txt
+281,0.5657863430882702,finished_summaries/gradesaver/An Ideal Husband/overview.json
+282,0.5530303030303031,finished_summaries/shmoop/An Ideal Husband/overview.txt
+283,0.5941161155948972,finished_summaries/sparknotes/An Ideal Husband/overview.txt
+284,0.4026768642447419,finished_summaries/gradesaver/The Three Musketeers/overview.json
+285,0.47154982709839677,finished_summaries/shmoop/The Three Musketeers/overview.txt
+286,0.40025974025974026,finished_summaries/cliffnotes/The Three Musketeers/overview.txt
+287,0.3577118030412744,finished_summaries/sparknotes/The Three Musketeers/overview.txt
+288,0.30043227665706057,finished_summaries/gradesaver/Black Beauty/overview.json
+289,0.30043227665706057,finished_summaries/shmoop/Black Beauty/overview.txt
+290,0.370659852698031,finished_summaries/gradesaver/King Lear/overview.json
+291,0.4422073079791201,finished_summaries/shmoop/King Lear/overview.txt
+292,0.3122980831359035,finished_summaries/sparknotes/King Lear/overview.txt
+293,0.5643290999447819,finished_summaries/gradesaver/Antony and Cleopatra/overview.json
+294,0.5643290999447819,finished_summaries/sparknotes/Antony and Cleopatra/overview.txt
+295,0.5518202403762411,finished_summaries/gradesaver/The Adventures of Huckleberry Finn/overview.json
+296,0.4686156491831471,finished_summaries/cliffnotes/The Adventures of Huckleberry Finn/overview.txt
+297,0.5799146092444775,finished_summaries/sparknotes/The Adventures of Huckleberry Finn/overview.txt
+298,0.5080421519689406,finished_summaries/gradesaver/The Duchess of Malfi/overview.json
+299,0.5080421519689406,finished_summaries/shmoop/The Duchess of Malfi/overview.txt
+300,0.4401244167962675,finished_summaries/gradesaver/The Secret Garden/overview.json
+301,0.5172185430463575,finished_summaries/shmoop/The Secret Garden/overview.txt
+302,0.5220959595959596,finished_summaries/sparknotes/The Secret Garden/overview.txt
+303,0.5145971195017517,finished_summaries/shmoop/The Age of Innocence/overview.txt
+304,0.528555431131019,finished_summaries/cliffnotes/The Age of Innocence/overview.txt
+305,0.514827018121911,finished_summaries/sparknotes/The Age of Innocence/overview.txt
+306,0.5610142630744849,finished_summaries/gradesaver/Ethan Frome/overview.json
+307,0.5079782241411677,finished_summaries/shmoop/Ethan Frome/overview.txt
+308,0.5557424682673191,finished_summaries/cliffnotes/Ethan Frome/overview.txt
+309,0.5403794887878313,finished_summaries/sparknotes/Ethan Frome/overview.txt
+310,0.5460537727666955,finished_summaries/gradesaver/Bleak House/overview.json
+311,0.5387249307027556,finished_summaries/shmoop/Bleak House/overview.txt
+312,0.5177267058613932,finished_summaries/cliffnotes/Bleak House/overview.txt
+313,0.47364873972233457,finished_summaries/sparknotes/Bleak House/overview.txt
+314,0.5703744192402296,finished_summaries/gradesaver/The Jungle/overview.json
+315,0.5810965162764135,finished_summaries/shmoop/The Jungle/overview.txt
+316,0.547850643238155,finished_summaries/sparknotes/The Jungle/overview.txt
+317,0.522858982614295,finished_summaries/gradesaver/Much Ado About Nothing/overview.json
+318,0.48173887328108833,finished_summaries/shmoop/Much Ado About Nothing/overview.txt
+319,0.3077231695085256,finished_summaries/sparknotes/Much Ado About Nothing/overview.txt
+320,0.562396507601987,finished_summaries/gradesaver/Anthem/overview.json
+321,0.5607254348149249,finished_summaries/shmoop/Anthem/overview.txt
+322,0.5455550947048251,finished_summaries/cliffnotes/Anthem/overview.txt
+323,0.5100601891659502,finished_summaries/sparknotes/Anthem/overview.txt
+324,0.517348102296791,finished_summaries/gradesaver/As You Like It/overview.json
+325,0.5471596032461677,finished_summaries/shmoop/As You Like It/overview.txt
+326,0.5236801242236024,finished_summaries/sparknotes/As You Like It/overview.txt
+327,0.5194585448392556,finished_summaries/shmoop/The Ambassadors/overview.txt
+328,0.5194585448392556,finished_summaries/cliffnotes/The Ambassadors/overview.txt
+329,0.5796413502109704,finished_summaries/gradesaver/The Taming of the Shrew/overview.json
+330,0.5608108108108107,finished_summaries/shmoop/The Taming of the Shrew/overview.txt
+331,0.5851063829787234,finished_summaries/sparknotes/The Taming of the Shrew/overview.txt
